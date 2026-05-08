@@ -1,0 +1,372 @@
+dept_id,unit_name,location,pin,pan,gst
+KSPCB_531,"Soni, Natt and Aurora Unit 1","641
+Sekhon Path, Bengaluru",560001,DLHNT4257W,29DLHNT4257W1Z1
+KSPCB_323,Balay Inc Unit 1,"16
+Kumar Zila, Bengaluru",560058,MDNXU1607A,
+KSPCB_468,Memon-Wable Unit 1,"15/18
+Dani Chowk, Bengaluru",560058,UWVHY6474I,
+KSPCB_364,Shukla Group Unit 1,"456
+Sahota, Bengaluru",560001,,29HYNUJ9207V1ZC
+KSPCB_701,Dugar-Choudhary Unit 1,"47/423
+Mangat Marg, Bengaluru",560001,,
+KSPCB_609,Behl-Lata Unit 1,"500, Narayan St., Bengaluru",560001,VMUBG7133K,29VMUBG7133K1Z3
+KSPCB_743,Murthy Inc Unit 1,"H.No. 140, Saini, Bengaluru",560058,,29CITWT7812Z1Z3
+KSPCB_590,Talwar-Swaminathan Unit 1,"58
+Hayer Chowk, Bengaluru",560001,,29DCZGM9583U1Z1
+KSPCB_727,Shankar Inc Unit 1,"14/48
+Date Road, Bengaluru",560001,,29QGZES7518L1ZB
+KSPCB_879,"Prakash, Golla and Salvi Unit 1","14/258, Prasad Chowk, Bengaluru",560001,,29KGCGX4190L1ZA
+KSPCB_639,Pillai PLC Unit 1,"31/34, Mammen Circle, Bengaluru",560058,BYFRB6663A,
+KSPCB_813,Banerjee-Iyer Unit 1,"387, Badami Nagar, Bengaluru",560058,,29LXFEI7531G1Z3
+KSPCB_799,"Deep, Panchal and More Unit 1","103
+Madan Ganj, Bengaluru",560058,FXUFR2714V,
+KSPCB_920,Raj Inc Unit 1,"819
+Lal Marg, Bengaluru",560058,,
+KSPCB_603,"Dey, Kala and Bali Unit 1","H.No. 68, Narasimhan St., Bengaluru",560001,MKNQT2855Y,29MKNQT2855Y1ZB
+KSPCB_484,Das PLC Unit 1,"H.No. 000, Mohanty Chowk, Bengaluru",560058,,
+KSPCB_917,Rajagopal-Magar Unit 1,"11/44, Lanka Nagar, Bengaluru",560001,,
+KSPCB_810,Mallick PLC Unit 1,"H.No. 824
+Chada Chowk, Bengaluru",560058,,
+KSPCB_733,Palla-Anand Unit 1,"55/021, Madan Chowk, Bengaluru",560001,UHSEI2528V,
+KSPCB_280,"Ram, Sibal and Dhaliwal Unit 1","H.No. 22
+Nigam Marg, Bengaluru",560001,KLOLS7734P,29KLOLS7734P1Z3
+KSPCB_898,Balakrishnan-Vig Unit 1,"H.No. 264, Tiwari Ganj, Bengaluru",560001,UHVRQ3008X,29UHVRQ3008X1ZA
+KSPCB_193,"Shan, Savant and Kari Unit 1","85
+Vig Chowk, Bengaluru",560001,FWHCI8245H,29FWHCI8245H1ZA
+KSPCB_404,Mangal PLC Unit 1,"99/46, Devan Circle, Bengaluru",560001,,
+KSPCB_303,"Dua, Sani and Shah Unit 1","H.No. 891
+Sant Road, Bengaluru",560058,WFEFZ5381O,29WFEFZ5381O1Z2
+KSPCB_987,Balan-Anne Unit 1,"H.No. 129, Srinivasan Circle, Bengaluru",560058,ZZCRE7479J,29ZZCRE7479J1Z1
+KSPCB_756,Agrawal and Sons Unit 1,"H.No. 18
+Kapoor Circle, Bengaluru",560001,AZENF3838P,
+KSPCB_976,"Tak, Parmar and Panchal Unit 1","115, Dua Chowk, Bengaluru",560058,LGRUN0636H,29LGRUN0636H1ZC
+KSPCB_271,Raghavan Group Unit 1,"21/83
+Menon Marg, Bengaluru",560001,KGXLG5121B,
+KSPCB_779,Hayre Group Unit 1,"82/40
+Mani, Bengaluru",560058,NOUJN4494F,29NOUJN4494F1ZA
+KSPCB_482,"Khalsa, Date and Balay Unit 1","86/113
+Walia Path, Bengaluru",560001,,29FEUTX8042S1ZA
+KSPCB_401,"Memon, Bhargava and Mody Unit 1","96/457, Varghese St., Bengaluru",560001,HFQRG4914T,29HFQRG4914T1Z2
+KSPCB_552,"Goda, Mall and Ramaswamy Unit 1","86/061
+Pai St., Bengaluru",560001,,
+KSPCB_324,Bajaj-Ravel Unit 1,"31/75, Sinha Zila, Bengaluru",560058,EHTLB5739R,29EHTLB5739R1ZB
+KSPCB_774,Contractor and Sons Unit 1,"H.No. 496
+Amble Road, Bengaluru",560001,XSZVO8303P,
+KSPCB_463,Thakur Inc Unit 1,"40, Agrawal Road, Bengaluru",560058,XLGFJ3162A,29XLGFJ3162A1Z2
+KSPCB_370,"Arya, Anand and Walia Unit 1","85, Ganesan, Bengaluru",560001,,
+KSPCB_741,"Prasad, Sastry and Pandit Unit 1","06, Chaudhuri Path, Bengaluru",560001,JICOY3598B,
+KSPCB_871,Boase LLC Unit 1,"H.No. 08, Walla Nagar, Bengaluru",560058,HWIFR7101M,29HWIFR7101M1Z3
+KSPCB_708,"Sule, Shere and Narasimhan Unit 1","66, Keer Road, Bengaluru",560001,,29VEVHG7339U1Z3
+KSPCB_901,"Sengupta, Om and Koshy Unit 1","378
+Bora St., Bengaluru",560001,YZOYX5876G,
+KSPCB_738,"Chokshi, Sankar and Dass Unit 1","33/689
+Ram Marg, Bengaluru",560001,UOVFR2562P,
+KSPCB_567,"Wagle, Sahni and Amble Unit 1","742
+Mahajan Path, Bengaluru",560058,ZHAHL6101X,29ZHAHL6101X1Z1
+KSPCB_671,"Boase, Sanghvi and Mander Unit 1","H.No. 87
+Bir Chowk, Bengaluru",560001,KQFXW9934N,29KQFXW9934N1ZC
+KSPCB_205,Din-Wason Unit 1,"75/27
+Sinha Ganj, Bengaluru",560001,XVSLC9086O,
+KSPCB_375,Brar-Bakshi Unit 1,"948, Bajaj, Bengaluru",560058,TPQZC7866B,
+KSPCB_834,Butala Inc Unit 1,"H.No. 904
+Sharma, Bengaluru",560058,CARJR9327I,29CARJR9327I1ZC
+KSPCB_394,"Dash, Natarajan and Badami Unit 1","H.No. 61
+Chada Nagar, Bengaluru",560058,,
+KSPCB_544,Kunda LLC Unit 1,"450, Raj St., Bengaluru",560058,USOTX1771K,
+KSPCB_546,Murty Inc Unit 1,"01/552
+Upadhyay Nagar, Bengaluru",560058,SDHHG9040W,29SDHHG9040W1ZC
+KSPCB_874,Thakkar-Dugal Unit 1,"H.No. 59
+Patel Ganj, Bengaluru",560058,CVKCQ9915T,
+KSPCB_229,"Lala, Sabharwal and Viswanathan Unit 1","H.No. 516, Bahl Nagar, Bengaluru",560058,,
+KSPCB_307,Choudhary LLC Unit 1,"82/433, Dara Zila, Bengaluru",560058,,29EIAQM6802L1Z2
+KSPCB_966,"Nair, Borah and Pal Unit 1","H.No. 70, Bath St., Bengaluru",560058,HOFPK8735R,29HOFPK8735R1ZB
+KSPCB_259,"Tella, Kant and Tripathi Unit 1","37/59, Subramanian Zila, Bengaluru",560001,QFJAE0018V,29QFJAE0018V1ZA
+KSPCB_890,Talwar Ltd Unit 1,"99/22
+Dhar Path, Bengaluru",560001,QUXIO5670C,29QUXIO5670C1ZC
+KSPCB_923,Kari-Doshi Unit 1,"H.No. 83, Nagy Marg, Bengaluru",560001,GGJSR0863L,
+KSPCB_144,Brar and Sons Unit 1,"H.No. 356
+Singh Nagar, Bengaluru",560058,,
+KSPCB_533,Malhotra and Sons Unit 1,"93/077
+Nadkarni Circle, Bengaluru",560058,UFDQE9966G,29UFDQE9966G1ZA
+KSPCB_884,Char-Padmanabhan Unit 1,"29, Dixit Nagar, Bengaluru",560001,GVZUZ8836J,
+KSPCB_262,Nori-Kamdar Unit 1,"01/881, Yadav, Bengaluru",560058,PUWLN2014W,29PUWLN2014W1ZB
+KSPCB_771,Reddy Inc Unit 1,"572
+Gupta Marg, Bengaluru",560001,SUQZV7798K,29SUQZV7798K1Z1
+KSPCB_189,Maharaj Ltd Unit 1,"72/05
+Bora Zila, Bengaluru",560058,VOLWP3630K,29VOLWP3630K1ZB
+KSPCB_215,Dutt Group Unit 1,"22/86
+Sarkar Path, Bengaluru",560001,,29ZPGOF5537S1ZA
+KSPCB_995,Dhillon PLC Unit 1,"14/77
+Lanka Zila, Bengaluru",560001,,29CJJQV8890B1Z2
+KSPCB_122,Sahota LLC Unit 1,"49/141
+Karpe Marg, Bengaluru",560058,QMWGX4802D,
+KSPCB_594,Choudhry-Nayar Unit 1,"H.No. 901
+Dhawan Zila, Bengaluru",560058,YGWSX0711Y,29YGWSX0711Y1ZB
+KSPCB_792,"Wali, Banik and Parikh Unit 1","676
+Sidhu Road, Bengaluru",560001,DEWMK1124Z,
+KSPCB_466,Buch and Sons Unit 1,"89/67
+Atwal Ganj, Bengaluru",560058,ALLOP7185I,29ALLOP7185I1ZA
+KSPCB_631,"Ghose, Trivedi and Om Unit 1","H.No. 36, Char, Bengaluru",560058,,
+KSPCB_199,Pradhan Inc Unit 1,"H.No. 77, Tailor Path, Bengaluru",560058,USRET9747W,29USRET9747W1ZA
+KSPCB_879,"Korpal, Bora and Chatterjee Unit 1","63/196
+Kant Chowk, Bengaluru",560058,DONVM2407W,29DONVM2407W1ZC
+KSPCB_315,Choudhry-Dora Unit 1,"453, Prashad Marg, Bengaluru",560001,,
+KSPCB_236,Kurian and Sons Unit 1,"07/566, Dhillon Zila, Bengaluru",560058,EQBSG0390N,29EQBSG0390N1Z2
+KSPCB_319,Ramachandran PLC Unit 1,"65/225, Contractor Chowk, Bengaluru",560001,ONPWK4882X,29ONPWK4882X1ZA
+KSPCB_774,Mand PLC Unit 1,"97/409
+Nagarajan Road, Bengaluru",560058,JQCLB3744D,29JQCLB3744D1ZC
+KSPCB_341,"Sekhon, Kakar and Chandra Unit 1","50/926
+Prabhu St., Bengaluru",560001,NJIEQ6769L,
+KSPCB_339,"Dubey, Dara and Nanda Unit 1","132
+Bhat Nagar, Bengaluru",560001,,29FZLOL8143T1Z3
+KSPCB_664,"Peri, Kothari and Sura Unit 1","93/043, Bala Marg, Bengaluru",560058,FDLZI0742A,29FDLZI0742A1ZA
+KSPCB_430,Raghavan-Tara Unit 1,"51, Sunder Zila, Bengaluru",560058,FPVEU8649R,29FPVEU8649R1Z1
+KSPCB_371,Bhardwaj-Ghosh Unit 1,"50
+Ram Road, Bengaluru",560001,THIFV5044Q,
+KSPCB_147,"Nagar, Patel and Saraf Unit 1","63/079, Ravel Road, Bengaluru",560001,,29HRROE6297U1ZB
+KSPCB_194,Manne Inc Unit 1,"196
+Bhattacharyya, Bengaluru",560001,VZIMV4262U,29VZIMV4262U1Z1
+KSPCB_172,Doshi-Goyal Unit 1,"H.No. 77, Sharaf Road, Bengaluru",560001,MDVPF9338V,
+KSPCB_686,Kanda and Sons Unit 1,"302, Nath Marg, Bengaluru",560001,HFQVM4493B,29HFQVM4493B1Z2
+KSPCB_635,"Bajwa, Keer and Balay Unit 1","H.No. 164
+Ravi Circle, Bengaluru",560001,,29NVBRF4324O1Z1
+KSPCB_750,Lanka-Muni Unit 1,"322
+Brar Circle, Bengaluru",560058,WMUSL0832W,
+KSPCB_309,Kunda Group Unit 1,"64/64
+Anand Zila, Bengaluru",560058,,29THDXI6356J1Z2
+KSPCB_895,Saha-Master Unit 1,"52, Viswanathan Road, Bengaluru",560001,VELPM4271J,
+KSPCB_748,"Dhawan, Wable and Swamy Unit 1","H.No. 133, Raj Circle, Bengaluru",560058,OJGFI4082I,29OJGFI4082I1Z3
+KSPCB_300,Soni PLC Unit 1,"H.No. 234
+Mohanty Chowk, Bengaluru",560001,HAGZQ9837M,29HAGZQ9837M1Z3
+KSPCB_587,"Pandit, Khurana and Seth Unit 1","83/021
+Mohan Circle, Bengaluru",560001,,29WJFBY0908V1ZB
+KSPCB_415,Devan PLC Unit 1,"20
+Krishnan Marg, Bengaluru",560001,TGQRO6395B,
+KSPCB_562,Nayak-Sur Unit 1,"23/668, Tak Nagar, Bengaluru",560001,WMOSP0925C,29WMOSP0925C1ZB
+KSPCB_634,Prakash LLC Unit 1,"741
+Mallick Marg, Bengaluru",560001,FZJSX9822W,29FZJSX9822W1ZA
+KSPCB_943,Johal-Contractor Unit 1,"72/34
+Pal Circle, Bengaluru",560001,ZRIKM1759O,
+KSPCB_522,Wason Inc Unit 1,"34/810
+Kunda St., Bengaluru",560058,OEOIG1595O,29OEOIG1595O1Z3
+KSPCB_767,Wadhwa Inc Unit 1,"H.No. 00, Behl, Bengaluru",560058,,29QEWPY7544W1Z1
+KSPCB_321,"Singh, Tata and Kapadia Unit 1","H.No. 06, Naik Chowk, Bengaluru",560058,SPBPT4613O,29SPBPT4613O1Z2
+KSPCB_884,Ram-Thaker Unit 1,"90
+Parmar Ganj, Bengaluru",560058,RJCSN2622D,29RJCSN2622D1Z3
+KSPCB_876,"Sagar, Koshy and Gala Unit 1","166, Jani Road, Bengaluru",560001,,
+KSPCB_418,Mitter PLC Unit 1,"H.No. 599, Om St., Bengaluru",560058,XSLKZ6203B,29XSLKZ6203B1Z2
+KSPCB_283,Chandra-Ramakrishnan Unit 1,"H.No. 467, Wali Nagar, Bengaluru",560001,JHPGP1094Z,29JHPGP1094Z1Z3
+KSPCB_353,"Basak, Loyal and Wali Unit 1","070
+Banik Path, Bengaluru",560001,,29FBMQY7717X1Z3
+KSPCB_630,Sen-Maharaj Unit 1,"H.No. 419
+Goel, Bengaluru",560001,VIFUM8874B,29VIFUM8874B1Z2
+KSPCB_955,Sinha Inc Unit 1,"69/85
+Mody Chowk, Bengaluru",560058,EEVQK3117X,29EEVQK3117X1ZC
+KSPCB_962,"Atwal, Chakrabarti and Karpe Unit 1","H.No. 253
+Sehgal Ganj, Bengaluru",560058,,
+KSPCB_120,Badal and Sons Unit 1,"H.No. 36, Dube St., Bengaluru",560001,BCTQJ1870F,29BCTQJ1870F1ZC
+KSPCB_330,Dewan Inc Unit 1,"565
+Shan St., Bengaluru",560001,XATDY5802L,
+KSPCB_505,"Wadhwa, Keer and Sharaf Unit 1","35/067
+Lata, Bengaluru",560001,FHHGA6277P,29FHHGA6277P1ZB
+KSPCB_688,Chaudhry and Sons Unit 1,"82/472
+Srinivas Nagar, Bengaluru",560001,,
+KSPCB_902,Bhatti Inc Unit 1,"96/341, Contractor Marg, Bengaluru",560058,SRRVP3059G,
+KSPCB_985,Raj-Sidhu Unit 1,"26/13, Tailor Nagar, Bengaluru",560001,KXLVC4270S,29KXLVC4270S1ZB
+KSPCB_559,Krishna-Dutt Unit 1,"H.No. 968, Agrawal Chowk, Bengaluru",560058,XWEPK5527E,29XWEPK5527E1ZB
+KSPCB_357,Nori and Sons Unit 1,"H.No. 02, Oommen Ganj, Bengaluru",560058,DXBKG2154M,29DXBKG2154M1ZB
+KSPCB_804,"Ganesh, Chanda and Sinha Unit 1","32/986
+Dhaliwal Circle, Bengaluru",560001,JXKWR8178N,29JXKWR8178N1ZC
+KSPCB_702,Luthra LLC Unit 1,"725, Murty Path, Bengaluru",560058,,29ELZCO8324E1ZC
+KSPCB_109,Singhal-Oommen Unit 1,"63/691, Bhatt Path, Bengaluru",560001,,29QVBAA6261V1ZA
+KSPCB_218,Ranganathan-Narayan Unit 1,"H.No. 76, Patla Zila, Bengaluru",560058,,
+KSPCB_816,"Sunder, Rai and Chaudhary Unit 1","H.No. 37
+Kannan Road, Bengaluru",560058,RCRCO0107E,29RCRCO0107E1ZB
+KSPCB_346,Ranganathan-Saini Unit 1,"93
+Keer Chowk, Bengaluru",560058,AFNIV3540S,
+KSPCB_660,Arora Group Unit 1,"74/77
+Wason, Bengaluru",560058,GYVPO0449F,
+KSPCB_387,"Shukla, Sanghvi and Muni Unit 1","H.No. 623, Sarin St., Bengaluru",560001,,29KURWX1659X1ZC
+KSPCB_565,Gara-Bhakta Unit 1,"670
+Pandey Marg, Bengaluru",560001,,
+KSPCB_411,Mukhopadhyay-Prabhakar Unit 1,"290, Baral Chowk, Bengaluru",560058,YWKCP9008I,
+KSPCB_722,"Menon, Sengupta and Mittal Unit 1","H.No. 90
+Bhagat Path, Bengaluru",560001,BPOZD3363J,29BPOZD3363J1Z2
+KSPCB_350,Nayar Group Unit 1,"13/669, Natarajan St., Bengaluru",560001,KBOZT4250B,29KBOZT4250B1Z1
+KSPCB_589,Sagar Inc Unit 1,"383, Bains Chowk, Bengaluru",560001,,
+KSPCB_307,Krishnamurthy-Buch Unit 1,"29
+Sahni, Bengaluru",560058,NSBOY5202S,29NSBOY5202S1Z1
+KSPCB_829,"Boase, Ravi and Garde Unit 1","832, Borra Ganj, Bengaluru",560058,JIOAY9321A,29JIOAY9321A1ZB
+KSPCB_395,"Bobal, Puri and Koshy Unit 1","H.No. 367, Sen Ganj, Bengaluru",560001,,29NZGWZ2648B1ZB
+KSPCB_426,Narula-Dhaliwal Unit 1,"137
+Mitra, Bengaluru",560058,,29DUEGZ6093B1Z1
+KSPCB_345,Om PLC Unit 1,"89/89
+Kumar Chowk, Bengaluru",560001,XYWKU3171U,29XYWKU3171U1Z3
+KSPCB_194,Bora-Nigam Unit 1,"02/33
+Sood Road, Bengaluru",560058,GULHZ7163Y,29GULHZ7163Y1Z3
+KSPCB_770,"Ganguly, Sachar and Doctor Unit 1","H.No. 48, Wali Road, Bengaluru",560001,,
+KSPCB_318,Sridhar-Pillay Unit 1,"63/00, Ramaswamy Marg, Bengaluru",560001,CAZKZ2301H,
+KSPCB_434,Jain-Pal Unit 1,"10/498
+Mittal Circle, Bengaluru",560058,,29PKQOZ9029P1ZC
+KSPCB_566,Datta and Sons Unit 1,"914
+Kibe, Bengaluru",560058,,29BOXMO0072Z1ZB
+KSPCB_346,Chadha Ltd Unit 1,"67/91, Sen Ganj, Bengaluru",560001,,29BARRF4833G1ZC
+KSPCB_726,Manda-Goel Unit 1,"H.No. 154, Kalita Nagar, Bengaluru",560058,LSYJO3893G,
+KSPCB_349,Pal-Peri Unit 1,"81
+Talwar Road, Bengaluru",560001,APTHI3758Q,
+KSPCB_828,Babu PLC Unit 1,"46/299
+Anand Nagar, Bengaluru",560058,BRMTV9106P,
+KSPCB_291,Kulkarni-Sem Unit 1,"30/32, Sampath Marg, Bengaluru",560058,SNXUN8790C,29SNXUN8790C1ZA
+KSPCB_365,Acharya LLC Unit 1,"77, Om St., Bengaluru",560001,,
+KSPCB_323,"Gaba, Walia and Ganesh Unit 1","H.No. 072
+Talwar Ganj, Bengaluru",560058,,
+KSPCB_822,Sabharwal-Aurora Unit 1,"19/26, Raja, Bengaluru",560001,MIUYJ3104Z,29MIUYJ3104Z1ZB
+KSPCB_808,"Ben, Panchal and Mani Unit 1","975
+Gade, Bengaluru",560001,,29OFYSZ8661Z1Z2
+KSPCB_213,"Bhardwaj, Master and Dasgupta Unit 1","41
+Chakraborty Marg, Bengaluru",560058,WIXEV7533Q,29WIXEV7533Q1ZB
+KSPCB_643,"Oak, Sankaran and Venkataraman Unit 1","H.No. 069, Toor Chowk, Bengaluru",560001,,29CMHPZ2787K1ZB
+KSPCB_747,"Bhalla, Banerjee and Arora Unit 1","H.No. 601, Thakur Marg, Bengaluru",560058,BVEWY7406W,29BVEWY7406W1Z3
+KSPCB_594,Modi and Sons Unit 1,"468
+Merchant Path, Bengaluru",560058,TGKIX3781H,
+KSPCB_395,"Bassi, Dhar and Rai Unit 1","053
+Wagle Road, Bengaluru",560001,KRMGH7047C,
+KSPCB_952,"Bandi, Sant and Yohannan Unit 1","60
+Arora Path, Bengaluru",560058,LWLJT1566P,29LWLJT1566P1Z1
+KSPCB_374,Chauhan and Sons Unit 1,"59/48
+Mital Nagar, Bengaluru",560058,,
+KSPCB_921,"Pathak, Gala and Sani Unit 1","H.No. 15, Sathe Marg, Bengaluru",560058,HJEOG0497S,29HJEOG0497S1ZB
+KSPCB_641,"Hans, Sagar and Thaker Unit 1","51/750, Bail Path, Bengaluru",560001,,29RFDUM8839T1ZC
+KSPCB_577,Chawla-Sinha Unit 1,"H.No. 593, Ganguly Zila, Bengaluru",560058,VHATA7115Q,29VHATA7115Q1ZC
+KSPCB_273,Bhargava PLC Unit 1,"H.No. 94
+Srivastava Zila, Bengaluru",560058,,
+KSPCB_852,Sundaram-Badami Unit 1,"93/223, Tiwari Nagar, Bengaluru",560001,HVGAY6614W,29HVGAY6614W1Z1
+KSPCB_607,Samra Ltd Unit 1,"02/77, Ratti Path, Bengaluru",560058,,
+KSPCB_330,Agate-Ramakrishnan Unit 1,"H.No. 64, Dhillon Marg, Bengaluru",560058,JQSBD6856R,29JQSBD6856R1Z3
+KSPCB_800,Rattan LLC Unit 1,"83/631
+Nagar Marg, Bengaluru",560058,,
+KSPCB_836,Goyal Inc Unit 1,"H.No. 718, Garde St., Bengaluru",560058,BUGEC6080B,29BUGEC6080B1ZB
+KSPCB_657,Modi and Sons Unit 1,"H.No. 19
+Bhatnagar St., Bengaluru",560001,EWVVR5252X,29EWVVR5252X1ZB
+KSPCB_582,"Sant, Sridhar and Goswami Unit 1","62
+Biswas Path, Bengaluru",560058,DDSZL4294U,29DDSZL4294U1ZB
+KSPCB_694,Tandon-Dutt Unit 1,"10
+Bala Road, Bengaluru",560001,PTLRJ7958Q,
+KSPCB_991,Lanka and Sons Unit 1,"26
+Ravel Path, Bengaluru",560001,FBYYN0124H,29FBYYN0124H1ZB
+KSPCB_358,Raghavan-Oommen Unit 1,"231
+Rama Circle, Bengaluru",560001,XYWNN9680R,
+KSPCB_926,"Ghosh, Banik and Sarraf Unit 1","25
+Issac St., Bengaluru",560001,BLZKE8158A,29BLZKE8158A1Z3
+KSPCB_178,Contractor-Bath Unit 1,"03/92
+Saran St., Bengaluru",560058,,
+KSPCB_496,"Kamdar, Shere and Bhattacharyya Unit 1","73/231, Dasgupta St., Bengaluru",560001,RUMTL6855P,29RUMTL6855P1Z1
+KSPCB_464,Murthy Group Unit 1,"H.No. 70
+Srinivasan St., Bengaluru",560058,JZUFC5527D,
+KSPCB_289,Rastogi-Chacko Unit 1,"542, Bajwa, Bengaluru",560058,XZOSA2414J,29XZOSA2414J1Z2
+KSPCB_966,Amble-Choudhury Unit 1,"48/68, Din Chowk, Bengaluru",560058,LSTGP3617G,
+KSPCB_257,Mital and Sons Unit 1,"75, Lad Road, Bengaluru",560001,,
+KSPCB_219,"Reddy, Pingle and Narain Unit 1","08/055
+Prakash Ganj, Bengaluru",560001,JTMLJ3884A,
+KSPCB_677,"Chacko, Kata and Goda Unit 1","86/702
+Dani Zila, Bengaluru",560001,,29GZUDC9133F1Z1
+KSPCB_530,Mohan-Bhardwaj Unit 1,"50, Goda Ganj, Bengaluru",560058,ICHQP2398A,29ICHQP2398A1Z3
+KSPCB_261,Verma and Sons Unit 1,"22
+Verma St., Bengaluru",560001,LPSHW6836L,
+KSPCB_835,Hans PLC Unit 1,"71/435
+Shroff Marg, Bengaluru",560058,,29FJBPF3553Y1ZC
+KSPCB_977,Merchant-Chaudhry Unit 1,"86/20
+Kohli Nagar, Bengaluru",560001,WJANS8212A,
+KSPCB_925,Behl Inc Unit 1,"H.No. 43, Chakraborty Circle, Bengaluru",560001,UVYTC6929O,
+KSPCB_351,Tandon and Sons Unit 1,"31, Dash Zila, Bengaluru",560058,,29COJRE6708J1Z1
+KSPCB_886,Cherian Group Unit 1,"893, Narayanan Nagar, Bengaluru",560058,QUDGQ7403H,
+KSPCB_638,Prakash-Gopal Unit 1,"H.No. 16
+Rattan Chowk, Bengaluru",560001,FKXGC3999S,29FKXGC3999S1ZC
+KSPCB_884,"Mahajan, Natarajan and Sridhar Unit 1","13, Dasgupta Nagar, Bengaluru",560058,NIQXD4864Q,
+KSPCB_529,"Kadakia, Dugar and Kurian Unit 1","H.No. 739, Mani Marg, Bengaluru",560001,MCUPM7882Q,29MCUPM7882Q1Z2
+KSPCB_425,"Barman, Garg and Sodhi Unit 1","59/557
+Kalita Chowk, Bengaluru",560058,VTPLE8401L,
+KSPCB_634,Pingle Inc Unit 1,"15/744
+Kapur Circle, Bengaluru",560001,,
+KSPCB_130,"Prasad, Krishnan and Wagle Unit 1","109
+Salvi Zila, Bengaluru",560058,,
+KSPCB_881,"Patla, Swamy and Muni Unit 1","53/704, Puri Path, Bengaluru",560058,,29KZJLH4084X1ZC
+KSPCB_120,Rama Inc Unit 1,"11
+Kapoor Circle, Bengaluru",560058,KKDRP4924M,29KKDRP4924M1Z1
+KSPCB_361,Merchant Inc Unit 1,"201
+Zacharia Chowk, Bengaluru",560001,OYALM5720G,29OYALM5720G1Z3
+KSPCB_632,"Date, Kala and Mutti Unit 1","H.No. 00
+Kalla Circle, Bengaluru",560001,UYYFI9467N,29UYYFI9467N1Z3
+KSPCB_140,Randhawa-Oza Unit 1,"H.No. 82, Nori Marg, Bengaluru",560001,,29FLRXL2272Z1Z3
+KSPCB_329,Tailor-Balay Unit 1,"H.No. 15
+Pandit Path, Bengaluru",560001,QQXTO1650F,29QQXTO1650F1ZC
+KSPCB_534,"Bava, Sahota and Mammen Unit 1","98, Varughese Circle, Bengaluru",560058,AWPSZ3227V,29AWPSZ3227V1ZA
+KSPCB_523,"Palla, Sinha and Kanda Unit 1","71/70, Ravi Marg, Bengaluru",560001,ZGAYA0263W,29ZGAYA0263W1ZA
+KSPCB_573,Mand and Sons Unit 1,"24/433, Bobal Chowk, Bengaluru",560001,GOHPU4258O,
+KSPCB_256,Sharma Group Unit 1,"56, Subramaniam St., Bengaluru",560058,GCURP2734B,
+KSPCB_782,Raghavan LLC Unit 1,"16/358, Dugar Ganj, Bengaluru",560058,IROYG6040U,29IROYG6040U1ZB
+KSPCB_427,Desai-Jayaraman Unit 1,"81/05
+Menon Nagar, Bengaluru",560001,,29TBYZB1323P1Z2
+KSPCB_668,Brahmbhatt-Gera Unit 1,"90, Karnik Chowk, Bengaluru",560058,LPBLC3896J,29LPBLC3896J1ZA
+KSPCB_322,"Chauhan, Malhotra and Kadakia Unit 1","58/87, Badal Road, Bengaluru",560001,,29PRALJ9709H1Z3
+KSPCB_107,Shetty Group Unit 1,"93/70, Korpal, Bengaluru",560001,FVKWM0323R,29FVKWM0323R1Z3
+KSPCB_605,Tak LLC Unit 1,"28/44, Minhas Road, Bengaluru",560001,GHKGH7271J,29GHKGH7271J1Z3
+KSPCB_563,Malhotra and Sons Unit 1,"73/40
+Thakur Marg, Bengaluru",560001,XYNRJ9200X,29XYNRJ9200X1ZA
+KSPCB_345,Lata LLC Unit 1,"32/39, Desai Nagar, Bengaluru",560058,OWZQI1405T,29OWZQI1405T1Z1
+KSPCB_387,Tailor-Konda Unit 1,"19, Mallick Circle, Bengaluru",560058,VEBFB5846C,29VEBFB5846C1ZC
+KSPCB_130,Dutt-Khalsa Unit 1,"H.No. 00
+Din Path, Bengaluru",560058,MWCGI3506E,
+KSPCB_818,"Peri, Sankaran and Contractor Unit 1","H.No. 08
+Iyengar Path, Bengaluru",560001,MDIHL9209M,
+KSPCB_911,Minhas Group Unit 1,"82/20, Venkatesh Circle, Bengaluru",560058,,29WVOGA2129B1Z3
+KSPCB_988,"Panchal, Gulati and Parmer Unit 1","785
+Nair St., Bengaluru",560001,MJVTD7563M,29MJVTD7563M1ZC
+KSPCB_791,"Kari, Behl and Naidu Unit 1","H.No. 95
+Bera Nagar, Bengaluru",560058,GAGPU7920U,
+KSPCB_236,Prakash Group Unit 1,"25/98
+Dua St., Bengaluru",560001,CFXPV9930X,
+KSPCB_241,Gour Ltd Unit 1,"H.No. 115, Lal, Bengaluru",560001,,
+KSPCB_633,Pai-Palla Unit 1,"35/843, Mani Zila, Bengaluru",560001,PWCAI6754D,
+KSPCB_593,"Mukhopadhyay, Palla and Kanda Unit 1","H.No. 31, Karnik, Bengaluru",560001,MNBBW1395I,29MNBBW1395I1ZA
+KSPCB_231,Memon PLC Unit 1,"48/842, Jha Chowk, Bengaluru",560001,JKUPO0414N,
+KSPCB_928,"Butala, Bhavsar and Zachariah Unit 1","H.No. 60, Master St., Bengaluru",560058,EDMFE9991P,
+KSPCB_358,Wason and Sons Unit 1,"H.No. 02
+Dugar St., Bengaluru",560058,,29SWUIL2680M1ZC
+KSPCB_455,Issac-Babu Unit 1,"57/526
+Palan Circle, Bengaluru",560001,,
+KSPCB_164,"Mohanty, Walla and Dyal Unit 1","87/27, Chakraborty St., Bengaluru",560058,,29DZAOT4134V1ZC
+KSPCB_458,Uppal-Butala Unit 1,"50, Keer, Bengaluru",560001,VUFNQ3929W,
+KSPCB_266,Dhingra-Kibe Unit 1,"H.No. 30
+Shanker Zila, Bengaluru",560058,ADYYA7682M,29ADYYA7682M1ZC
+KSPCB_315,"Magar, Kuruvilla and Guha Unit 1","354
+Sagar Nagar, Bengaluru",560001,,29FSNCA2062V1ZB
+KSPCB_519,"Ganesh, Sankaran and Gopal Unit 1","H.No. 367, Bhandari Chowk, Bengaluru",560058,,29VZVWH1854E1Z3
+KSPCB_791,Korpal and Sons Unit 1,"52, Aggarwal Chowk, Bengaluru",560058,MOBBT1918H,
+KSPCB_536,Roy LLC Unit 1,"H.No. 31, Borah Path, Bengaluru",560058,CXZHU4851W,29CXZHU4851W1Z2
+KSPCB_250,"Chatterjee, Chatterjee and Mukherjee Unit 1","97/93
+Chandran Marg, Bengaluru",560058,,29FVIFH6262B1ZC
+KSPCB_492,Subramanian-Dugal Unit 1,"837, Bhakta Marg, Bengaluru",560001,,29XTFCE3272O1ZA
+KSPCB_846,Choudhury-Lalla Unit 1,"33, Shukla Ganj, Bengaluru",560058,,
+KSPCB_969,Singh and Sons Unit 1,"H.No. 07, Bhatnagar Marg, Bengaluru",560058,JZZOV7478Q,29JZZOV7478Q1ZB
+KSPCB_605,"Chada, Raman and Goyal Unit 1","59/893
+Chacko St., Bengaluru",560001,,
+KSPCB_772,"Chadha, Munshi and Subramanian Unit 1","63
+Jhaveri, Bengaluru",560058,UFTHN6279A,
+KSPCB_601,Gill Ltd Unit 1,"H.No. 488, Bava Path, Bengaluru",560058,VJQTG9629D,
+KSPCB_549,"Yogi, Goswami and Hegde Unit 1","732
+Pillai Marg, Bengaluru",560001,,29AQWNZ9663K1ZB
+KSPCB_376,"Bhatti, Sant and Ghose Unit 1","46/79
+Gara Circle, Bengaluru",560001,ZRJBQ1764A,29ZRJBQ1764A1ZB
+KSPCB_470,"Karan, Doctor and Sur Unit 1","H.No. 152
+Oza Ganj, Bengaluru",560001,DGEKN9954A,29DGEKN9954A1Z3
+KSPCB_983,Kibe-Mane Unit 1,"68/17
+Jhaveri Circle, Bengaluru",560058,ULZLT1450N,
+KSPCB_704,Varma Ltd Unit 1,"41/749, Bumb Circle, Bengaluru",560001,ESJOM8375S,29ESJOM8375S1ZB
+KSPCB_194,"Balasubramanian, Ranganathan and Krishna Unit 1","H.No. 913
+Khare Nagar, Bengaluru",560001,,
+KSPCB_830,"Keer, Sharma and Bhalla Unit 1","H.No. 823, Padmanabhan St., Bengaluru",560058,ZSWYY6234L,
+KSPCB_912,Hari Ltd Unit 1,"62
+Sha Nagar, Bengaluru",560058,,29GHYPK9947D1ZA
+KSPCB_679,"Parekh, Rama and Raju Unit 1","H.No. 285
+Johal Circle, Bengaluru",560001,VAIQP6025M,29VAIQP6025M1Z1

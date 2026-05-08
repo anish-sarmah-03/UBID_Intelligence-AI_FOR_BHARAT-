@@ -1,0 +1,425 @@
+dept_id,business_name,factory_address,pin,pan_no,gst_number
+FAC_2769,"Soni, Natt and Aurora","641
+Sekhon Path, Bengaluru",560001,DLHNT4257W,29DLHNT4257W1Z1
+FAC_2725,Mittal-Muni,"759, Choudhary Chowk, Bengaluru",560001,OHBXF7407I,29OHBXF7407I1ZC
+FAC_6031,Balay Inc,"16
+Kumar Zila, Bengaluru",560058,MDNXU1607A,29MDNXU1607A1Z3
+FAC_1608,Shukla Group,"456
+Sahota, Bengaluru",560001,HYNUJ9207V,
+FAC_2588,"Varghese, Palla and Prasad","81/033
+Kar Nagar, Bengaluru",560058,,29HSYIX8033K1ZA
+FAC_7323,Dugar-Choudhary,"47/423
+Mangat Marg, Bengaluru",560001,SVNOH1637M,29SVNOH1637M1Z3
+FAC_6245,Murthy Inc,"H.No. 140, Saini, Bengaluru",560058,,29CITWT7812Z1Z3
+FAC_3966,"Amble, Mallick and Tank","12/56, Saraf Chowk, Bengaluru",560058,ZNDEQ0323V,29ZNDEQ0323V1ZB
+FAC_4753,Chana PLC,"H.No. 682
+Gade Nagar, Bengaluru",560001,UGSME1983P,29UGSME1983P1Z1
+FAC_2812,Naidu-Palan,"44
+Bhakta Road, Bengaluru",560001,NBRLY2479V,29NBRLY2479V1ZC
+FAC_8388,"Prakash, Golla and Salvi","14/258, Prasad Chowk, Bengaluru",560001,,29KGCGX4190L1ZA
+FAC_6609,Banerjee-Iyer,"387, Badami Nagar, Bengaluru",560058,LXFEI7531G,29LXFEI7531G1Z3
+FAC_6468,"Char, Goyal and Babu","64, Modi Nagar, Bengaluru",560058,,29BCKMO0585K1Z1
+FAC_6841,"Deep, Panchal and More","103
+Madan Ganj, Bengaluru",560058,FXUFR2714V,29FXUFR2714V1Z2
+FAC_3541,Raj Inc,"819
+Lal Marg, Bengaluru",560058,SBZOK3133M,29SBZOK3133M1Z2
+FAC_5018,"Choudhary, Bail and Gokhale","H.No. 394
+Chand Street, Bengaluru",560001,DKKCQ7035F,29DKKCQ7035F1ZA
+FAC_1621,"Mand, Varghese and Sethi","H.No. 761
+Choudhary Road, Bengaluru",560058,EGOGW2628M,29EGOGW2628M1Z2
+FAC_7463,"Dey, Kala and Bali","H.No. 68, Narasimhan Street, Bengaluru",560001,,29MKNQT2855Y1ZB
+FAC_4078,Rajagopal-Magar,"11/44, Lanka Nagar, Bengaluru",560001,STGDN8695K,29STGDN8695K1Z3
+FAC_4732,Sagar-Soni,"45/654
+Dora Street, Bengaluru",560001,LGUSZ5821E,29LGUSZ5821E1ZA
+FAC_7556,Kanda LLC,"91/89
+Gera Nagar, Bengaluru",560001,DVHJZ5205Q,29DVHJZ5205Q1Z2
+FAC_3593,"Ram, Sibal and Dhaliwal","H.No. 22
+Nigam Marg, Bengaluru",560001,KLOLS7734P,29KLOLS7734P1Z3
+FAC_9975,"Yadav, Bhattacharyya and Ramesh","71
+Chatterjee Path, Bengaluru",560001,RCQQX3559S,29RCQQX3559S1Z3
+FAC_7100,Balakrishnan-Vig,"H.No. 264, Tiwari Ganj, Bengaluru",560001,UHVRQ3008X,29UHVRQ3008X1ZA
+FAC_9182,"Shan, Savant and Kari","85
+Vig Chowk, Bengaluru",560001,FWHCI8245H,
+FAC_9838,"Dua, Sani and Shah","H.No. 891
+Sant Road, Bengaluru",560058,,29WFEFZ5381O1Z2
+FAC_1950,Nadkarni LLC,"47/38
+Lal Chowk, Bengaluru",560058,NFQDY4614T,29NFQDY4614T1Z2
+FAC_5543,"Tak, Parmar and Panchal","115, Dua Chowk, Bengaluru",560058,LGRUN0636H,29LGRUN0636H1ZC
+FAC_6526,"Dayal, Pradhan and Kala","79/628
+Goda Marg, Bengaluru",560001,SSOWH8410I,29SSOWH8410I1Z1
+FAC_2982,Raghavan Group,"21/83
+Menon Marg, Bengaluru",560001,KGXLG5121B,29KGXLG5121B1Z2
+FAC_4089,Wable-Issac,"94/44
+Iyengar Marg, Bengaluru",560001,CUIYD0504A,
+FAC_8477,"Memon, Bhargava and Mody","96/457, Varghese Street, Bengaluru",560001,HFQRG4914T,29HFQRG4914T1Z2
+FAC_2404,"Goda, Mall and Ramaswamy","86/061
+Pai Street, Bengaluru",560001,ETCDR5005I,29ETCDR5005I1Z3
+FAC_3968,Contractor and Sons,"H.No. 496
+Amble Road, Bengaluru",560001,XSZVO8303P,29XSZVO8303P1Z3
+FAC_1568,Dugar LLC,"H.No. 723, Batta Marg, Bengaluru",560058,EDPPL1841J,29EDPPL1841J1ZB
+FAC_8216,Karnik-Palla,"67, Anand Chowk, Bengaluru",560058,KONPC1606Q,
+FAC_6534,"Wason, Kala and Kamdar","416, D’Alia Path, Bengaluru",560058,RTZON3032F,29RTZON3032F1Z2
+FAC_6772,Doctor-Prabhu,"H.No. 19
+Radhakrishnan Street, Bengaluru",560001,CRXOS7210H,29CRXOS7210H1ZA
+FAC_3150,"Sengupta, Sani and Aurora","H.No. 45
+Dugar, Bengaluru",560001,FTTPA8360T,29FTTPA8360T1Z1
+FAC_7601,Thakur Inc,"74/621, Jha Nagar, Bengaluru",560001,PLTOO0917X,29PLTOO0917X1Z2
+FAC_2055,"Prasad, Sastry and Pandit","06, Chaudhuri Path, Bengaluru",560001,JICOY3598B,29JICOY3598B1ZC
+FAC_1306,Krishnan-Srinivas,"21
+Banerjee, Bengaluru",560001,SSTWG4158E,29SSTWG4158E1ZC
+FAC_5693,Saha-Srivastava,"37/008, Sabharwal Chowk, Bengaluru",560001,CFCMY5420L,29CFCMY5420L1Z2
+FAC_8244,Boase LLC,"H.No. 08, Walla Nagar, Bengaluru",560058,HWIFR7101M,29HWIFR7101M1Z3
+FAC_6345,Raghavan-Thakur,"011, Agrawal Road, Bengaluru",560058,ZXGXO0008G,29ZXGXO0008G1ZA
+FAC_4768,"Walia, Sangha and Krish","716, Vyas Path, Bengaluru",560001,DNJUV2127P,29DNJUV2127P1ZA
+FAC_8118,"Sengupta, Om and Koshy","378
+Bora Street, Bengaluru",560001,YZOYX5876G,
+FAC_5249,Hegde PLC,"70, More Path, Bengaluru",560001,FITIF3909B,29FITIF3909B1Z1
+FAC_7980,Cheema-Ravel,"03/567, Bhavsar Road, Bengaluru",560001,DOQMD4739C,29DOQMD4739C1Z3
+FAC_8913,"Boase, Sanghvi and Mander","H.No. 87
+Bir Chowk, Bengaluru",560001,KQFXW9934N,29KQFXW9934N1ZC
+FAC_2649,Brar-Bakshi,"948, Bajaj, Bengaluru",560058,TPQZC7866B,29TPQZC7866B1Z2
+FAC_3555,Butala Inc,"H.No. 904
+Sharma, Bengaluru",560058,CARJR9327I,29CARJR9327I1ZC
+FAC_4463,"Dash, Natarajan and Badami","H.No. 61
+Chada Nagar, Bengaluru",560058,FSMZO5652C,
+FAC_1981,Kunda LLC,"450, Raj Street, Bengaluru",560058,USOTX1771K,29USOTX1771K1Z2
+FAC_6932,"Lala, Sabharwal and Viswanathan","H.No. 516, Bahl Nagar, Bengaluru",560058,LZKNE9158J,29LZKNE9158J1ZC
+FAC_4764,"Khosla, Bains and Lal","55/949
+Bhattacharyya, Bengaluru",560058,YWCDY8574V,29YWCDY8574V1ZC
+FAC_6671,"Nair, Borah and Pal","H.No. 70, Bath Street, Bengaluru",560058,HOFPK8735R,29HOFPK8735R1ZB
+FAC_3586,Loyal LLC,"48
+Naidu Path, Bengaluru",560058,ZDAIE2067I,29ZDAIE2067I1Z2
+FAC_1781,Chana-Dhingra,"42/009
+Dani Path, Bengaluru",560058,DIONR0451X,29DIONR0451X1ZB
+FAC_3361,Dixit-Brar,"H.No. 72, Deep Marg, Bengaluru",560001,IKXKF7621C,29IKXKF7621C1ZB
+FAC_1741,"Dass, Narasimhan and Badal","H.No. 51
+Lad Street, Bengaluru",560001,SWXNJ1204V,29SWXNJ1204V1ZA
+FAC_5919,Talwar Ltd,"99/22
+Dhar Path, Bengaluru",560001,QUXIO5670C,
+FAC_2477,Srinivasan Ltd,"24, Dada Ganj, Bengaluru",560058,IAUWK7495S,29IAUWK7495S1Z2
+FAC_5423,Char-Padmanabhan,"29, Dixit Nagar, Bengaluru",560001,GVZUZ8836J,29GVZUZ8836J1ZC
+FAC_7572,Nori Ltd,"04/469
+D’Alia, Bengaluru",560001,EDNTG1586Z,
+FAC_9383,Dey-Sachdev,"H.No. 93, Dugar Marg, Bengaluru",560058,ATZMT1018U,29ATZMT1018U1ZA
+FAC_6925,Reddy Inc,"572
+Gupta Marg, Bengaluru",560001,SUQZV7798K,29SUQZV7798K1Z1
+FAC_6372,Nagy PLC,"H.No. 424, Pandya Road, Bengaluru",560058,ZHBJI9891O,
+FAC_4951,"Peri, Tella and Radhakrishnan","H.No. 620, Baria Ganj, Bengaluru",560058,ZWDBD7840D,
+FAC_1277,Goswami-Sarin,"85/65
+Master Nagar, Bengaluru",560001,,29GIMTM0561W1ZC
+FAC_4759,Dutt Group,"22/86
+Sarkar Path, Bengaluru",560001,ZPGOF5537S,29ZPGOF5537S1ZA
+FAC_6877,Bajwa-Keer,"10/01, Edwin Path, Bengaluru",560058,LTDPQ2734B,29LTDPQ2734B1Z3
+FAC_3350,"Apte, Pillai and Banik","86/631, Lala Nagar, Bengaluru",560001,YTUIT2075Q,29YTUIT2075Q1Z3
+FAC_7886,"Ramaswamy, Sama and Nayar","07/607
+Prabhu Zila, Bengaluru",560001,WBFRJ7846Y,29WBFRJ7846Y1Z1
+FAC_4608,Venkatesh and Sons,"H.No. 030
+Sant Chowk, Bengaluru",560001,QCMPO2687L,29QCMPO2687L1ZB
+FAC_8442,Dhillon PLC,"14/77
+Lanka Zila, Bengaluru",560001,CJJQV8890B,29CJJQV8890B1Z2
+FAC_4673,Raja Group,"H.No. 76, Gala Path, Bengaluru",560058,VCCCS3177U,
+FAC_4131,Choudhry-Nayar,"H.No. 901
+Dhawan Zila, Bengaluru",560058,YGWSX0711Y,29YGWSX0711Y1ZB
+FAC_1216,Tripathi PLC,"27/136
+Bhalla Marg, Bengaluru",560058,XGBFH1861K,29XGBFH1861K1Z1
+FAC_7951,"Dara, Palan and Patla","42, Pillay Nagar, Bengaluru",560001,GKOEM7307L,29GKOEM7307L1Z3
+FAC_6342,Buch and Sons,"89/67
+Atwal Ganj, Bengaluru",560058,ALLOP7185I,29ALLOP7185I1ZA
+FAC_3602,"Sarkar, Ghosh and Padmanabhan","66/997
+Yadav, Bengaluru",560001,ARPOM0538Q,29ARPOM0538Q1ZC
+FAC_3423,"Ghose, Trivedi and Om","H.No. 36, Char, Bengaluru",560058,IFVON8937U,29IFVON8937U1ZC
+FAC_5106,Choudhry-Dora,"453, Prashad Marg, Bengaluru",560001,ZHAWH2971T,29ZHAWH2971T1ZC
+FAC_2916,Cheema PLC,"088
+Palla Marg, Bengaluru",560058,AMTWA3407K,29AMTWA3407K1ZB
+FAC_4109,Ratta LLC,"79/20, Batra Nagar, Bengaluru",560058,,29TLRUK3960E1ZC
+FAC_5739,Kurian and Sons,"07/566, Dhillon Zila, Bengaluru",560058,EQBSG0390N,29EQBSG0390N1Z2
+FAC_7621,"Shankar, Goswami and Andra","23
+Dass Ganj, Bengaluru",560058,SRWDI1596M,29SRWDI1596M1Z3
+FAC_5226,Mand PLC,"97/409
+Nagarajan Road, Bengaluru",560058,JQCLB3744D,29JQCLB3744D1ZC
+FAC_7443,"Muni, Mand and Tripathi","669, Khosla Ganj, Bengaluru",560058,IGSKO8158E,29IGSKO8158E1Z1
+FAC_1409,"Sekhon, Kakar and Chandra","50/926
+Prabhu Street, Bengaluru",560001,NJIEQ6769L,29NJIEQ6769L1Z1
+FAC_4846,"Dubey, Dara and Nanda","132
+Bhat Nagar, Bengaluru",560001,FZLOL8143T,
+FAC_7005,Bhatia PLC,"23/929, Palan Ganj, Bengaluru",560001,KLIKZ6444L,29KLIKZ6444L1Z3
+FAC_6905,Samra Inc,"H.No. 10, Goyal Ganj, Bengaluru",560058,TAMXB7473D,29TAMXB7473D1ZA
+FAC_4167,Raghavan-Tara,"51, Sunder Zila, Bengaluru",560058,FPVEU8649R,29FPVEU8649R1Z1
+FAC_2797,Bhardwaj Inc,"86/00, Jani Road, Bengaluru",560001,GTSYQ9425E,29GTSYQ9425E1ZC
+FAC_3226,Bhardwaj-Ghosh,"50
+Ram Road, Bengaluru",560001,,29THIFV5044Q1Z1
+FAC_5540,"Nagar, Patel and Saraf","63/079, Ravel Road, Bengaluru",560001,HRROE6297U,29HRROE6297U1ZB
+FAC_3100,Manne Inc,"196
+Bhattacharyya, Bengaluru",560001,VZIMV4262U,29VZIMV4262U1Z1
+FAC_4276,Doshi-Goyal,"H.No. 77, Sharaf Road, Bengaluru",560001,MDVPF9338V,29MDVPF9338V1Z3
+FAC_6268,Kanda and Sons,"302, Nath Marg, Bengaluru",560001,HFQVM4493B,29HFQVM4493B1Z2
+FAC_6317,"Bajwa, Keer and Balay","H.No. 164
+Ravi Circle, Bengaluru",560001,NVBRF4324O,29NVBRF4324O1Z1
+FAC_2859,Lanka-Muni,"322
+Brar Circle, Bengaluru",560058,WMUSL0832W,29WMUSL0832W1ZA
+FAC_2786,Kunda Group,"64/64
+Anand Zila, Bengaluru",560058,THDXI6356J,29THDXI6356J1Z2
+FAC_9381,Bakshi Ltd,"86/360, Sawhney Chowk, Bengaluru",560001,GMMVO8526R,29GMMVO8526R1ZA
+FAC_1039,Saha-Master,"52, Viswanathan Road, Bengaluru",560001,VELPM4271J,29VELPM4271J1Z1
+FAC_6081,"Dhawan, Wable and Swamy","H.No. 133, Raj Circle, Bengaluru",560058,OJGFI4082I,29OJGFI4082I1Z3
+FAC_8743,"Pandit, Khurana and Seth","83/021
+Mohan Circle, Bengaluru",560001,WJFBY0908V,29WJFBY0908V1ZB
+FAC_7235,Sawhney PLC,"H.No. 32
+Shetty Ganj, Bengaluru",560058,GONNL1441U,
+FAC_8048,Devan PLC,"20
+Krishnan Marg, Bengaluru",560001,,29TGQRO6395B1ZA
+FAC_7275,Nagarajan-Saxena,"055
+Madan Ganj, Bengaluru",560058,KOFAY2506E,
+FAC_3503,"Walia, Bumb and Tailor","09, Apte, Bengaluru",560058,PZQSF0241Z,29PZQSF0241Z1Z1
+FAC_2858,Prakash LLC,"741
+Mallick Marg, Bengaluru",560001,FZJSX9822W,29FZJSX9822W1ZA
+FAC_7891,Johal-Contractor,"72/34
+Pal Circle, Bengaluru",560001,ZRIKM1759O,29ZRIKM1759O1Z2
+FAC_9189,Sharaf-Gokhale,"68, Dewan Marg, Bengaluru",560001,FDHZA7395L,29FDHZA7395L1Z1
+FAC_1367,Wadhwa Inc,"H.No. 00, Behl, Bengaluru",560058,QEWPY7544W,29QEWPY7544W1Z1
+FAC_6871,Venkatesh-Natarajan,"16/92
+Narula Marg, Bengaluru",560001,RJTXV2411M,29RJTXV2411M1Z1
+FAC_7578,Chandra-Ramakrishnan,"H.No. 467, Wali Nagar, Bengaluru",560001,JHPGP1094Z,
+FAC_6535,"Dhillon, Kalla and Pall","316
+Sinha, Bengaluru",560058,,29FTWIV4323T1Z2
+FAC_8140,"Basak, Loyal and Wali","070
+Banik Path, Bengaluru",560001,FBMQY7717X,
+FAC_7934,Sen-Maharaj,"H.No. 419
+Goel, Bengaluru",560001,VIFUM8874B,29VIFUM8874B1Z2
+FAC_2100,Badal and Sons,"H.No. 36, Dube Street, Bengaluru",560001,BCTQJ1870F,29BCTQJ1870F1ZC
+FAC_6395,Dewan Inc,"565
+Shan Street, Bengaluru",560001,XATDY5802L,29XATDY5802L1ZC
+FAC_5967,Biswas Inc,"12/276, Chhabra Path, Bengaluru",560058,LELNG8830W,29LELNG8830W1ZC
+FAC_6942,Nair LLC,"21/44, Gera, Bengaluru",560001,GYNLL2023Y,29GYNLL2023Y1Z2
+FAC_5411,"Wadhwa, Keer and Sharaf","35/067
+Lata, Bengaluru",560001,,29FHHGA6277P1ZB
+FAC_2150,Chadha PLC,"49, More Chowk, Bengaluru",560001,OBJVK2183Z,29OBJVK2183Z1ZB
+FAC_8790,Raj-Sidhu,"26/13, Tailor Nagar, Bengaluru",560001,KXLVC4270S,29KXLVC4270S1ZB
+FAC_3462,Zacharia and Sons,"H.No. 434, Kannan Path, Bengaluru",560058,MHXCO3636B,29MHXCO3636B1Z1
+FAC_5441,Rana-Randhawa,"117, Atwal Street, Bengaluru",560058,JXHTZ1983J,29JXHTZ1983J1ZC
+FAC_6693,Singhal-Oommen,"63/691, Bhatt Path, Bengaluru",560001,QVBAA6261V,29QVBAA6261V1ZA
+FAC_6643,"Sunder, Rai and Chaudhary","H.No. 37
+Kannan Road, Bengaluru",560058,RCRCO0107E,29RCRCO0107E1ZB
+FAC_3818,Nori-Ganesan,"85/92
+Bala Marg, Bengaluru",560001,NGCUV2895N,29NGCUV2895N1ZB
+FAC_8869,"Shukla, Sanghvi and Muni","H.No. 623, Sarin Street, Bengaluru",560001,KURWX1659X,29KURWX1659X1ZC
+FAC_3714,Krishnan-Thaman,"63/08, Shroff Marg, Bengaluru",560058,NHYLZ3767W,29NHYLZ3767W1Z3
+FAC_4630,"Menon, Sengupta and Mittal","H.No. 90
+Bhagat Path, Bengaluru",560001,BPOZD3363J,29BPOZD3363J1Z2
+FAC_2567,Jain-Ahuja,"91
+Mand Street, Bengaluru",560001,EOIPL8029N,29EOIPL8029N1Z2
+FAC_3804,"Bhatnagar, Kothari and Pradhan","10, Sur Zila, Bengaluru",560058,FYNAM5488D,29FYNAM5488D1Z2
+FAC_2667,Sagar Inc,"383, Bains Chowk, Bengaluru",560001,TLMXA2210Z,29TLMXA2210Z1ZC
+FAC_1388,Krishnamurthy-Buch,"29
+Sahni, Bengaluru",560058,NSBOY5202S,
+FAC_8746,Narula-Dhaliwal,"137
+Mitra, Bengaluru",560058,DUEGZ6093B,29DUEGZ6093B1Z1
+FAC_3730,"Sule, Kakar and Das","523
+Subramaniam Road, Bengaluru",560001,JCCNX6809G,29JCCNX6809G1Z3
+FAC_9640,Kurian LLC,"367
+Vyas Chowk, Bengaluru",560001,BQISO8615U,29BQISO8615U1ZB
+FAC_1367,Bora-Nigam,"02/33
+Sood Road, Bengaluru",560058,GULHZ7163Y,29GULHZ7163Y1Z3
+FAC_7245,"Sheth, Wason and Shankar","165
+Hayre Ganj, Bengaluru",560058,QZSWW5306S,
+FAC_4652,Tripathi Inc,"H.No. 717, Prashad Nagar, Bengaluru",560001,,29JPRSO6318I1ZC
+FAC_1008,Solanki PLC,"603
+Venkataraman, Bengaluru",560001,PXJOW7257T,29PXJOW7257T1ZB
+FAC_4140,Datta and Sons,"914
+Kibe, Bengaluru",560058,BOXMO0072Z,29BOXMO0072Z1ZB
+FAC_7354,Chadha Ltd,"67/91, Sen Ganj, Bengaluru",560001,BARRF4833G,29BARRF4833G1ZC
+FAC_8955,"Kota, Mohan and Modi","H.No. 769
+Kaur Zila, Bengaluru",560001,ABHTB9275N,29ABHTB9275N1Z1
+FAC_5605,Parikh and Sons,"88/955
+Seth Street, Bengaluru",560001,OTNVB0871W,29OTNVB0871W1Z3
+FAC_4582,Kulkarni-Sem,"30/32, Sampath Marg, Bengaluru",560058,,29SNXUN8790C1ZA
+FAC_5211,Acharya LLC,"77, Om Street, Bengaluru",560001,JHAOY1034V,
+FAC_8789,Luthra Ltd,"H.No. 148, Kadakia Marg, Bengaluru",560001,YSGKV7129L,29YSGKV7129L1ZB
+FAC_4302,Chandran LLC,"53/772, Anand, Bengaluru",560058,UULUT4274F,29UULUT4274F1Z3
+FAC_2455,"Borde, Sami and Ravel","85/021, Cherian Circle, Bengaluru",560058,DSJMS6435J,29DSJMS6435J1ZA
+FAC_9522,"Bhardwaj, Master and Dasgupta","41
+Chakraborty Marg, Bengaluru",560058,WIXEV7533Q,29WIXEV7533Q1ZB
+FAC_6517,Chakraborty Ltd,"49/542, Kumar Marg, Bengaluru",560058,XLHWO2440U,
+FAC_4057,"Bhalla, Banerjee and Arora","H.No. 601, Thakur Marg, Bengaluru",560058,BVEWY7406W,29BVEWY7406W1Z3
+FAC_5299,Modi and Sons,"468
+Merchant Path, Bengaluru",560058,TGKIX3781H,29TGKIX3781H1Z2
+FAC_2224,"Bassi, Dhar and Rai","053
+Wagle Road, Bengaluru",560001,KRMGH7047C,29KRMGH7047C1ZB
+FAC_8854,"Bandi, Sant and Yohannan","60
+Arora Path, Bengaluru",560058,LWLJT1566P,29LWLJT1566P1Z1
+FAC_1888,Chauhan and Sons,"59/48
+Mital Nagar, Bengaluru",560058,IBAKX3408W,29IBAKX3408W1Z2
+FAC_7228,"Pathak, Gala and Sani","H.No. 15, Sathe Marg, Bengaluru",560058,HJEOG0497S,29HJEOG0497S1ZB
+FAC_3657,"Ray, Ramachandran and Narain","H.No. 47
+Ghosh, Bengaluru",560001,NMPNL4346R,29NMPNL4346R1ZA
+FAC_4111,"Hans, Sagar and Thaker","51/750, Bail Path, Bengaluru",560001,RFDUM8839T,29RFDUM8839T1ZC
+FAC_7160,Banerjee-Jain,"H.No. 012
+Menon Zila, Bengaluru",560001,KQYUB3600U,
+FAC_3550,"Choudhury, Iyer and Sahota","37/633, Gole Circle, Bengaluru",560001,PFJAE1369D,29PFJAE1369D1Z3
+FAC_2656,Chawla-Sinha,"H.No. 593, Ganguly Zila, Bengaluru",560058,,29VHATA7115Q1ZC
+FAC_1738,Sundaram-Badami,"93/223, Tiwari Nagar, Bengaluru",560001,HVGAY6614W,29HVGAY6614W1Z1
+FAC_4964,Samra Ltd,"02/77, Ratti Path, Bengaluru",560058,FAATF9631I,29FAATF9631I1Z3
+FAC_8516,Agate-Ramakrishnan,"H.No. 64, Dhillon Marg, Bengaluru",560058,JQSBD6856R,29JQSBD6856R1Z3
+FAC_2522,Shanker-Setty,"H.No. 21, Srinivasan Chowk, Bengaluru",560058,TEKCF1278Q,29TEKCF1278Q1Z1
+FAC_6303,Bera PLC,"H.No. 606
+Vaidya Zila, Bengaluru",560001,,29JRCBT2382A1Z3
+FAC_9645,"Taneja, Verma and Nagar","H.No. 567, Keer Zila, Bengaluru",560058,CFCJI5129B,
+FAC_3308,Rattan LLC,"83/631
+Nagar Marg, Bengaluru",560058,UJSRL2861E,29UJSRL2861E1Z1
+FAC_3485,Modi and Sons,"H.No. 19
+Bhatnagar Street, Bengaluru",560001,EWVVR5252X,29EWVVR5252X1ZB
+FAC_8994,Kohli Ltd,"22/600
+Agrawal Ganj, Bengaluru",560058,WHBPB9699K,29WHBPB9699K1ZB
+FAC_7939,"Hegde, Master and Wable","H.No. 233
+Sandhu Ganj, Bengaluru",560058,ZVNWT4463N,
+FAC_4739,Raghavan-Oommen,"231
+Rama Circle, Bengaluru",560001,XYWNN9680R,29XYWNN9680R1Z2
+FAC_6725,"Ghosh, Banik and Sarraf","25
+Issac Street, Bengaluru",560001,,
+FAC_9558,Dutt-Nori,"98, Borah Zila, Bengaluru",560058,IYZUQ6875G,29IYZUQ6875G1Z3
+FAC_1853,"Dutt, Palla and Comar","022
+Lad Marg, Bengaluru",560058,LPNGZ8803W,29LPNGZ8803W1Z1
+FAC_4824,Devi-Seshadri,"H.No. 16
+Chander Zila, Bengaluru",560058,DQMFN5569A,29DQMFN5569A1Z1
+FAC_1805,Bansal-Reddy,"H.No. 674
+Pathak Marg, Bengaluru",560001,YCDRZ2936A,29YCDRZ2936A1ZC
+FAC_6001,Mani-Reddy,"48/716
+Samra Zila, Bengaluru",560001,PGIVB6713B,29PGIVB6713B1Z3
+FAC_9198,Thakkar-Nagi,"95/115, Dubey, Bengaluru",560058,FAPWJ3278K,29FAPWJ3278K1ZC
+FAC_6742,"Bava, Ramachandran and Biswas","H.No. 549, More Chowk, Bengaluru",560001,LNBJL9921R,29LNBJL9921R1ZC
+FAC_6861,Murthy Group,"H.No. 70
+Srinivasan Street, Bengaluru",560058,JZUFC5527D,29JZUFC5527D1Z1
+FAC_8194,Mitter-Kannan,"H.No. 35
+Ravi Street, Bengaluru",560058,,29XJUZP8231Y1ZA
+FAC_2789,Amble-Choudhury,"48/68, Din Chowk, Bengaluru",560058,LSTGP3617G,29LSTGP3617G1ZC
+FAC_2213,Mital and Sons,"75, Lad Road, Bengaluru",560001,MUFBG8263M,
+FAC_4004,"Chacko, Kata and Goda","86/702
+Dani Zila, Bengaluru",560001,GZUDC9133F,29GZUDC9133F1Z1
+FAC_6728,"Randhawa, Walla and Bhavsar","72/720, Dutt Street, Bengaluru",560058,GPHSQ8631K,29GPHSQ8631K1Z2
+FAC_5003,Raj LLC,"64/86
+Tripathi, Bengaluru",560058,,29HPTRN8687A1Z2
+FAC_6180,Mohan-Bhardwaj,"50, Goda Ganj, Bengaluru",560058,ICHQP2398A,29ICHQP2398A1Z3
+FAC_5785,Verma and Sons,"22
+Verma Street, Bengaluru",560001,,
+FAC_8607,Zacharia-Nanda,"H.No. 66
+Radhakrishnan Street, Bengaluru",560058,LZKEY2101A,
+FAC_7684,Merchant-Chaudhry,"86/20
+Kohli Nagar, Bengaluru",560001,WJANS8212A,
+FAC_2098,Misra-Chanda,"64/593, Goda Chowk, Bengaluru",560001,FECJV3898C,
+FAC_4353,Chaudhuri LLC,"195
+Garde Circle, Bengaluru",560058,AWZJJ8557V,29AWZJJ8557V1ZC
+FAC_8683,Prakash-Gopal,"H.No. 16
+Rattan Chowk, Bengaluru",560001,FKXGC3999S,
+FAC_2983,Hora PLC,"31/77
+Minhas Street, Bengaluru",560058,MPNTJ8514C,29MPNTJ8514C1ZB
+FAC_9569,Kashyap Ltd,"33/28, Contractor, Bengaluru",560058,FWQZG6518W,29FWQZG6518W1Z2
+FAC_3407,"Gulati, Dey and Talwar","H.No. 46
+Zachariah Path, Bengaluru",560001,UVEIV5422D,29UVEIV5422D1ZA
+FAC_8991,"Kadakia, Dugar and Kurian","H.No. 739, Mani Marg, Bengaluru",560001,MCUPM7882Q,29MCUPM7882Q1Z2
+FAC_4609,"Barman, Garg and Sodhi","59/557
+Kalita Chowk, Bengaluru",560058,VTPLE8401L,29VTPLE8401L1ZB
+FAC_3107,Bansal Ltd,"H.No. 66, Andra Street, Bengaluru",560001,RBELM2209Z,
+FAC_9400,Bhardwaj PLC,"H.No. 49, Tripathi Path, Bengaluru",560001,SNPVL9624Z,29SNPVL9624Z1ZA
+FAC_7430,Balasubramanian Inc,"H.No. 86
+Kaur Path, Bengaluru",560001,,29LVHNI5579E1Z2
+FAC_9443,Madan-Pingle,"38
+Mutti Marg, Bengaluru",560058,LNUDG2316V,29LNUDG2316V1ZC
+FAC_1457,"Patla, Swamy and Muni","53/704, Puri Path, Bengaluru",560058,KZJLH4084X,29KZJLH4084X1ZC
+FAC_7257,Rama Inc,"11
+Kapoor Circle, Bengaluru",560058,KKDRP4924M,29KKDRP4924M1Z1
+FAC_1384,Memon-Randhawa,"H.No. 429, Johal, Bengaluru",560058,SYADG6736J,29SYADG6736J1ZA
+FAC_5858,Merchant Inc,"201
+Zacharia Chowk, Bengaluru",560001,,29OYALM5720G1Z3
+FAC_3623,Randhawa-Oza,"H.No. 82, Nori Marg, Bengaluru",560001,FLRXL2272Z,29FLRXL2272Z1Z3
+FAC_5231,Nori LLC,"H.No. 021, Sehgal Ganj, Bengaluru",560058,FFZAR1751W,29FFZAR1751W1Z1
+FAC_9686,Shenoy LLC,"19, Bakshi Circle, Bengaluru",560058,PKQNI7180J,29PKQNI7180J1ZA
+FAC_1614,"Palla, Sinha and Kanda","71/70, Ravi Marg, Bengaluru",560001,,29ZGAYA0263W1ZA
+FAC_6509,Naik LLC,"04, Batra, Bengaluru",560058,EGZZY6234T,29EGZZY6234T1ZB
+FAC_9164,Sharma Group,"56, Subramaniam Street, Bengaluru",560058,GCURP2734B,29GCURP2734B1ZC
+FAC_2636,"Talwar, Ramesh and Yogi","H.No. 67
+Manda Marg, Bengaluru",560001,LFHRR4028C,29LFHRR4028C1Z2
+FAC_8372,"Choudhry, Nayak and Pandya","H.No. 69, Aurora Zila, Bengaluru",560001,FDPHC5403X,29FDPHC5403X1ZB
+FAC_4859,Dhaliwal-Sodhi,"H.No. 624
+Mangat Path, Bengaluru",560001,CSCZD5401F,29CSCZD5401F1Z3
+FAC_4373,Dugar and Sons,"H.No. 97, Goswami, Bengaluru",560058,HUSLY9897S,29HUSLY9897S1Z2
+FAC_1538,"Luthra, Comar and Bandi","903
+Salvi Street, Bengaluru",560001,UZIMK2749T,29UZIMK2749T1ZB
+FAC_6289,Dora PLC,"99/75, Nair Path, Bengaluru",560058,RNOMV4143C,
+FAC_6699,Rajagopalan-Murthy,"H.No. 81
+Dugal Circle, Bengaluru",560001,PPLZZ8329P,29PPLZZ8329P1Z3
+FAC_4357,Shetty Group,"93/70, Korpal, Bengaluru",560001,FVKWM0323R,29FVKWM0323R1Z3
+FAC_9366,Srinivasan and Sons,"20/47, Pant Chowk, Bengaluru",560001,YYYXF3115Q,29YYYXF3115Q1Z2
+FAC_8404,Tak LLC,"28/44, Minhas Road, Bengaluru",560001,GHKGH7271J,29GHKGH7271J1Z3
+FAC_6840,Dash Ltd,"13
+Sem Circle, Bengaluru",560001,GYGMH8062O,29GYGMH8062O1Z3
+FAC_5100,Malhotra and Sons,"73/40
+Thakur Marg, Bengaluru",560001,XYNRJ9200X,
+FAC_8914,Lata LLC,"32/39, Desai Nagar, Bengaluru",560058,OWZQI1405T,29OWZQI1405T1Z1
+FAC_3574,Tailor-Konda,"19, Mallick Circle, Bengaluru",560058,VEBFB5846C,29VEBFB5846C1ZC
+FAC_4271,Dutt-Khalsa,"H.No. 00
+Din Path, Bengaluru",560058,MWCGI3506E,29MWCGI3506E1Z2
+FAC_1678,"Kari, Behl and Naidu","H.No. 95
+Bera Nagar, Bengaluru",560058,GAGPU7920U,29GAGPU7920U1Z3
+FAC_9232,Prakash Group,"25/98
+Dua Street, Bengaluru",560001,CFXPV9930X,29CFXPV9930X1ZA
+FAC_3678,Parekh-Mammen,"H.No. 65
+Raman Chowk, Bengaluru",560058,SSNBU7917W,29SSNBU7917W1ZA
+FAC_1787,Pai-Palla,"35/843, Mani Zila, Bengaluru",560001,PWCAI6754D,29PWCAI6754D1Z3
+FAC_3673,"Dara, Andra and Krishna","H.No. 046
+Bedi Zila, Bengaluru",560058,,
+FAC_9466,"Mukhopadhyay, Palla and Kanda","H.No. 31, Karnik, Bengaluru",560001,MNBBW1395I,29MNBBW1395I1ZA
+FAC_3860,Ramachandran and Sons,"26/35, Ram, Bengaluru",560001,NMIJX7710D,29NMIJX7710D1ZB
+FAC_7312,Memon PLC,"48/842, Jha Chowk, Bengaluru",560001,JKUPO0414N,29JKUPO0414N1Z3
+FAC_4924,Badami-Sengupta,"H.No. 98, Saxena Road, Bengaluru",560001,,29ASTTZ8819Y1ZC
+FAC_1819,Palla Ltd,"H.No. 78, Kamdar Circle, Bengaluru",560058,RHHQH1899B,29RHHQH1899B1Z2
+FAC_3197,"Bhatt, Varughese and Tiwari","H.No. 830
+Grewal Road, Bengaluru",560001,VTERZ4495O,29VTERZ4495O1ZC
+FAC_5845,"Mani, Varughese and Oza","H.No. 910
+Pandit Circle, Bengaluru",560058,ZIDXJ5586U,29ZIDXJ5586U1ZB
+FAC_8345,Wason and Sons,"H.No. 02
+Dugar Street, Bengaluru",560058,SWUIL2680M,29SWUIL2680M1ZC
+FAC_4050,Issac-Babu,"57/526
+Palan Circle, Bengaluru",560001,SZDMG2097H,29SZDMG2097H1ZC
+FAC_8061,"Mohanty, Walla and Dyal","87/27, Chakraborty Street, Bengaluru",560058,,29DZAOT4134V1ZC
+FAC_1538,Uppal-Butala,"50, Keer, Bengaluru",560001,VUFNQ3929W,29VUFNQ3929W1Z3
+FAC_3796,Dhingra-Kibe,"H.No. 30
+Shanker Zila, Bengaluru",560058,ADYYA7682M,29ADYYA7682M1ZC
+FAC_8389,Sandal-Walia,"H.No. 471, Pillai Road, Bengaluru",560001,GTHGO4086W,29GTHGO4086W1ZA
+FAC_9286,Dani-Dora,"809
+Mand Circle, Bengaluru",560058,VITRG5567D,29VITRG5567D1Z1
+FAC_7496,"Magar, Kuruvilla and Guha","354
+Sagar Nagar, Bengaluru",560001,FSNCA2062V,29FSNCA2062V1ZB
+FAC_5275,Mukherjee LLC,"20/34
+Pant Circle, Bengaluru",560001,NHNNM8866O,29NHNNM8866O1Z2
+FAC_6022,Korpal and Sons,"52, Aggarwal Chowk, Bengaluru",560058,,29MOBBT1918H1ZA
+FAC_7922,Pandit PLC,"H.No. 627, Tak Nagar, Bengaluru",560058,AQHZL1836G,29AQHZL1836G1ZC
+FAC_3539,"Chatterjee, Chatterjee and Mukherjee","97/93
+Chandran Marg, Bengaluru",560058,FVIFH6262B,29FVIFH6262B1ZC
+FAC_2842,Dayal LLC,"26/618
+Mangal Zila, Bengaluru",560058,HRLXG6902K,29HRLXG6902K1Z2
+FAC_4799,Choudhury-Lalla,"33, Shukla Ganj, Bengaluru",560058,ATDEO0654Q,29ATDEO0654Q1ZC
+FAC_9882,"Naidu, Dalal and Sharma","H.No. 44
+Deep Chowk, Bengaluru",560058,ULMPT1494S,29ULMPT1494S1Z1
+FAC_1092,"Chada, Raman and Goyal","59/893
+Chacko Street, Bengaluru",560001,,29ZWOFB6691K1ZC
+FAC_3811,Bhatt-Sarin,"H.No. 562
+Dugar Chowk, Bengaluru",560001,IKWRA7364L,29IKWRA7364L1ZA
+FAC_5321,"Solanki, Sarkar and Ghose","63/294, Vyas Ganj, Bengaluru",560001,SNKKV8593I,29SNKKV8593I1ZC
+FAC_4911,Gill Ltd,"H.No. 488, Bava Path, Bengaluru",560058,VJQTG9629D,29VJQTG9629D1Z2
+FAC_5662,"Mody, Oza and Karpe","96/65
+Gara Circle, Bengaluru",560058,FDEFH6350F,29FDEFH6350F1Z1
+FAC_2152,"Karan, Doctor and Sur","H.No. 152
+Oza Ganj, Bengaluru",560001,DGEKN9954A,29DGEKN9954A1Z3
+FAC_4539,Jayaraman-Pall,"66, Natarajan Zila, Bengaluru",560001,YZLFU9407L,29YZLFU9407L1Z3
+FAC_7173,Kibe-Mane,"68/17
+Jhaveri Circle, Bengaluru",560058,ULZLT1450N,
+FAC_1829,Dixit Group,"64/741
+Rai Ganj, Bengaluru",560058,CLEXX3330X,29CLEXX3330X1Z3
+FAC_7221,Gopal-Tella,"62, Bhagat Nagar, Bengaluru",560058,GPARC2095A,29GPARC2095A1Z2
+FAC_7116,Varma Ltd,"41/749, Bumb Circle, Bengaluru",560001,ESJOM8375S,29ESJOM8375S1ZB
+FAC_4168,"Balasubramanian, Ranganathan and Krishna","H.No. 913
+Khare Nagar, Bengaluru",560001,,29WEKPG6720A1Z2
+FAC_4691,Hari Ltd,"62
+Sha Nagar, Bengaluru",560058,GHYPK9947D,29GHYPK9947D1ZA
+FAC_6241,"Parekh, Rama and Raju","H.No. 285
+Johal Circle, Bengaluru",560001,VAIQP6025M,29VAIQP6025M1Z1
